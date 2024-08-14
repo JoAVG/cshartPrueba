@@ -1,0 +1,3 @@
+Probando subir un archivo txt a github
+
+subiendo desde consola
